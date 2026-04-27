@@ -117,3 +117,6 @@ python3 main.py
 Good luck and have fun! 
 ![alt text](Images/image.png)
 
+## Author
+Timothé Jammes — https://github.com/TimoJammes — timothe.jammes@gmail.com
+
