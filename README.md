@@ -67,7 +67,7 @@ cd flabby_bird
 ## 5️⃣Install Pygame
 
 Ensure the python module **Pygame** is installed on your computer by typing the appropriate following command in your Terminal:
-
+(It is recommended to create a virtual environment for the project.)
 
 **Windows:** 
 ```bash
